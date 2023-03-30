@@ -1,0 +1,13 @@
+// todo codigo java []
+System.out.println("ola mundo");
+
+1.printar o 'ola mundo';
+class Programa {
+    public static void main(String[] args){
+      System.out.println('ola mundo');
+    }
+};
+
+2.comandos no terminal para rodar a class Programa
+--javac index.java = atualizar e executar o compilador
+--java nome-class = para rodar o codigo printado 
